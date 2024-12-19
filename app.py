@@ -12,7 +12,7 @@ y = df["idade"]
 modelo.fit(x, y)
 
 # Interface do Streamlit
-st.title("Descobridor de Idade")
+st.title("Descobrido Sua Idade")
 st.divider()
 
 # Entrada do usuário com placeholder
